@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bienvenido a mi perfil de GitHub. Soy Mario y aquí encontrarás algunos de mis proyectos e intereses. ¡Siéntete libre de explorar y contactarme si tienes alguna pregunta o sugerencia!
+Welcome to my GitHub profile. I'm Mario and here you'll find some of my projects and interests, feel free to explore and contact me if you have any questions or suggestions!
 
 
 ## 🌐 Socials:
